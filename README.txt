@@ -1,4 +1,4 @@
-CARRY & CO. FREE ONLINE SHOP
+kreeandkaa FREE ONLINE SHOP
 
 WHAT THIS VERSION DOES
 - Product catalogue
@@ -18,9 +18,9 @@ This is a static website. It does not have a server/database, so orders are sent
 SETUP
 1. Open script.js.
 2. Find:
-   const WHATSAPP_NUMBER = "919999999999";
+   const WHATSAPP_NUMBER = "919106818627";
 3. Replace it with your WhatsApp number, e.g.:
-   const WHATSAPP_NUMBER = "919876543210";
+   const WHATSAPP_NUMBER = "919106818627";
 4. Change STORE_NAME.
 5. Edit the PRODUCTS list to your actual products/prices.
 6. Put your product images in the images folder using:
