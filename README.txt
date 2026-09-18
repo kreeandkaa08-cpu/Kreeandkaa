@@ -2,7 +2,7 @@ kreeandkaa FREE ONLINE SHOP
 
 WHAT THIS VERSION DOES
 - Product catalogue
-- Tote / Hobo filters
+- Tote / Hobo / Mobile Sling / Pouches filters
 - Add to cart
 - Quantity controls
 - Cart saved in customer's browser
